@@ -2,7 +2,7 @@ repo_name: hicmtrex/Weather-Finder
 report_id: b87120ae829eb14d9176ffc9219cef63
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:17:30+00:00'
+timestamp: '2024-02-29T19:09:56+00:00'
 requested_by: hicmtrex
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-08-21 17:41:43.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.2.5
   open_source: true
